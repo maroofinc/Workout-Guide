@@ -1,4 +1,4 @@
-# Workout-Guide
+# Workout Guide Gizlilik Sözleşmesi
 
 Burada belirtilen gizlilik politikası ve kullanım koşulları; IOS App Store'da yayınlanan bütün mobil uygulamaları için geçerlidir. Bu uygulamaları mobil cihazınıza yükleyerek, bu metinde yer alan gizlilik politikasını ve kullanım koşullarını kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız bu uygulamaları mobil cihazınıza yüklemeyiniz.
 
